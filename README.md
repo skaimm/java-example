@@ -1,5 +1,3 @@
-# java-example
-
 # Follow steps to run locally
 **1- clone the repo to your local**
 ```bash
